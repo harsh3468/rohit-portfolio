@@ -1,7 +1,7 @@
 {
   "name": "myself",
   "private": true,
-  "homepage": "http://harsh3468",
+  "homepage": "http://harsh3468.github.io/rohit-portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
