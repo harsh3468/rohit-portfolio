@@ -17,7 +17,7 @@
     "bootstrap-icons": "^1.7.1",
     "components": "^0.1.0",
     "framer-motion": "^4.1.17",
-    "next": "12.0.4",
+    "next": "^12.0.4",
     "nodemailer": "^6.7.2",
     "react": "17.0.2",
     "react-bootstrap": "^2.0.2",
