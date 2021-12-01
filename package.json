@@ -1,14 +1,14 @@
 {
   "name": "myself",
   "private": true,
-  "homepage": "http://harsh3468.github.io/rohit-portfolio",
+  "homepage": "https://harsh3468.github.io/rohit-portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "export":"next export",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d .next",
     "lint": "next lint"
   },
   "dependencies": {
