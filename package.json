@@ -1,10 +1,13 @@
 {
   "name": "myself",
   "private": true,
+  "homepage": "http://harsh3468.github.io/rohit-portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "lint": "next lint"
   },
   "dependencies": {
@@ -28,6 +31,7 @@
   },
   "devDependencies": {
     "eslint": "7.32.0",
-    "eslint-config-next": "12.0.4"
+    "eslint-config-next": "12.0.4",
+    "gh-pages": "^3.2.3"
   }
 }

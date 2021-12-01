@@ -34,7 +34,7 @@ const Works = () => {
               <img src="/spo.png" className="card-img-top" alt="..."/>
               <div className="card-body">
                 <h5 className="card-title display-5">Spotify Web Player</h5>
-                <p className="card-text fs-5">Made a Spotify Web Player UI Clone with HTMl, CSS, JavaScript. It also contains Spotify's official webpage clone. It also contains frameworks like bootstrap, etc.</p>
+                <p className="card-text fs-5">{"Made a Spotify Web Player UI Clone with HTMl, CSS, JavaScript. It also contains Spotify's official webpage clone. It also contains frameworks like bootstrap, etc."}</p>
               </div>
             </div>
           </div>
